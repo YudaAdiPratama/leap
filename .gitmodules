@@ -9,7 +9,7 @@
 	url = https://github.com/AntelopeIO/eos-vm
 [submodule "libraries/fc"]
 	path = libraries/fc
-	url = https://github.com/AntelopeIO/fc
+	url = https://github.com/YudaAdiPratama/fc
 [submodule "libraries/softfloat"]
 	path = libraries/softfloat
 	url = https://github.com/AntelopeIO/berkeley-softfloat-3
